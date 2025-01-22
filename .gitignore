@@ -1,3 +1,3 @@
-app.py
-
-config.py
+data/*
+.env
+backupAcueducto/Copias de seguridad
